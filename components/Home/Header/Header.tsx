@@ -9,9 +9,9 @@ const Header = () => {
          <div  className='basis-1/2 bg-white '></div>
          <div className='basis-1/2 bg-[#417394]'></div>
          </div>
-         < >
+         <div>
              <Navbar/>
-        </>
+        </div>
        </MaxWidthWrapper>
   )
 }
