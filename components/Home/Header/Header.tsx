@@ -4,9 +4,11 @@ import Navbar from './Navbar/Navbar'
 
 const Header = () => {
   return (
-       <MaxWidthWrapper className='flex'>
-         <div className='basis-1/2'></div>
-         <div className='basia-1/2'></div>
+       <MaxWidthWrapper className='relative'>
+         <div  className='flex  absolute top-0 left-0 right-0'>
+         <div  className='basis-1/2 bg-white '></div>
+         <div className='basia-1/2 bg-[#]'></div>
+         </div>
          < >
              <Navbar/>
         </>
