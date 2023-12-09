@@ -16,14 +16,6 @@ const Navbar = () => {
         <ul>
           <li>search</li>
           <li>cart</li>
-          <li>Be consitent</li>
-          <li>Be consitent</li>
-          <li>Be consitent</li>
-          <li>Be try harder</li>
-          <li>Be try faster</li>
-          <li>Be try bigger</li>
-          <li>Be consitent</li>
-          <li>Be consitent</li>
         </ul>
     </nav>
   )
