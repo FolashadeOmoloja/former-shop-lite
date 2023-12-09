@@ -1,12 +1,17 @@
 import React from 'react'
+const navItem = [
+
+]
 
 const Navbar = () => {
   return (
     <nav>
-       Home 
-       Categories
-       shop
-       cart
+        <ul>
+           <li>Home</li>
+           <li>Shops</li>
+           <li>Categories</li>
+           <li>About</li>
+        </ul>
     </nav>
   )
 }
