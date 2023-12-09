@@ -19,9 +19,9 @@ const Navbar = () => {
           <li>Be consitent</li>
           <li>Be consitent</li>
           <li>Be consitent</li>
-          <li>Be consitent</li>
-          <li>Be consitent</li>
-          <li>Be consitent</li>
+          <li>Be try harder</li>
+          <li>Be try faster</li>
+          <li>Be try bogger</li>
           <li>Be consitent</li>
           <li>Be consitent</li>
         </ul>
