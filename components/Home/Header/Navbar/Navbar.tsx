@@ -13,6 +13,10 @@ const Navbar = () => {
            <li>Categories</li>
            <li>About</li>
         </ul>
+        <ul>
+          <li>search</li>
+          <li>cart</li>
+        </ul>
     </nav>
   )
 }
