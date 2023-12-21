@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav>
         <ul>
-           <li>Home</li>
+           <li>Homee</li>
            <li>Shops</li>
            <li>ShopLite</li>
            <li>Categories</li>
