@@ -13,4 +13,4 @@ pnpm dev
 # or
 bun dev
 
-
+An Ecommerce platform called ShopLite
